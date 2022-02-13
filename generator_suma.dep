@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1800054039</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\startup_stm32f40xx.s</file>
+      <file>$PROJ_DIR$\generator_test_16.c</file>
+      <file>$PROJ_DIR$\system_stm32f4xx_CLK168_HSE8.c</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rng.c</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.c</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c</file>
+      <file>$PROJ_DIR$\..\moji_projekti\projekt_10\LCD2x16.c</file>
+      <file>$PROJ_DIR$\Debug\Exe\generator_suma.out</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\generator.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\generator_suma.pbd</file>
+      <file>$PROJ_DIR$\system_stm32f4xx.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f4xx_CLK168_HSE8.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f4xx_CLK168_HSE8.pbi</file>
+      <file>$PROJ_DIR$\..\Dusan_book_demos\demo14\dd.h</file>
+      <file>$PROJ_DIR$\..\Dusan_book_demos\demo14\LCD2x16.c</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_hash.h</file>
+      <file>$PROJ_DIR$\..\moji_projekti\projekt_10\Projekt10.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\DAC - DDS demo.pbi</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_pwr.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_can.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_sdio.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rng.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\generator.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+      <file>$PROJ_DIR$\dd.h</file>
+      <file>$PROJ_DIR$\stm32f4xx_conf.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm4_simd.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_syscfg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Projekt10.pbi</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_tim.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_wwdg.h</file>
+      <file>$PROJ_DIR$\..\Dusan_book_demos\demo14\DAC - DDS demo.c</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tlv.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\Projekt10.o</file>
+      <file>$PROJ_DIR$\stm32f4xx_flash.icf</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm4.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_crc.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ymath.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtgmath.h</file>
+      <file>$PROJ_DIR$\LCD2x16.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\generator.pbi</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_cryp.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_i2c.h</file>
+      <file>$PROJ_DIR$\..\moji_projekti\projekt_10\stm32f4xx.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rtc.h</file>
+      <file>$PROJ_DIR$\..\moji_projekti\projekt_10\system_stm32f4xx.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\moji_projekti\projekt_10\dd.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h</file>
+      <file>$PROJ_DIR$\..\Dusan_book_demos\demo1\stm32f4xx.h</file>
+      <file>$PROJ_DIR$\..\Dusan_book_demos\demo1\system_stm32f4xx.h</file>
+      <file>$PROJ_DIR$\stm32f4xx.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\generator_test_buttonIRQ.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\moji_projekti\projekt_10\stm32f4xx_conf.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_iwdg.h</file>
+      <file>$PROJ_DIR$\generator_opcija.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\generator_opcija.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\generator_opcija.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_stm32f40xx.o</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dbgmcu.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\generator_test.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\generator_test_buttonIRQ.pbi</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_exti.h</file>
+      <file>$PROJ_DIR$\..\Dusan_book_demos\demo14\stm32f4xx.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dma.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c</file>
+      <file>$PROJ_DIR$\generator_test.c</file>
+      <file>$PROJ_DIR$\..\Dusan_book_demos\demo14\system_stm32f4xx.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\generator_test_buttonIRQ.o</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_flash.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_exti.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\generator_test.pbi</file>
+      <file>$PROJ_DIR$\..\STM32F4xx_DSP_StdPeriph_Lib_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\generator_test_16.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\generator_test_16.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Digital IO Port_E.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Digital IO Port_E.o</file>
+      <file>$PROJ_DIR$\..\Dusan_book_demos\demo1\Digital IO Port_E.c</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\startup_stm32f40xx.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\generator_test_16.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70 51 17 12 10 65 71 75 73 63 33 41 39 34 40 15 37 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30 4 3 5 6 7 36 56 35 54 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70 51 17 12 10 65 71 75 73 63 33 41 39 34 40 15 37 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30 4 3 5 6 7 36 56 35 54 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\system_stm32f4xx_CLK168_HSE8.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70 51 17 12 10 65 71 75 73 63 33 41 39 34 40 15 37 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70 51 17 12 10 65 71 75 73 63 33 41 39 34 40 15 37 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\generator_suma.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 50 82 80 16 11 38 48 29</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\generator.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70 51 17 12 10 65 71 75 73 63 33 41 39 34 40 15 37 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30 4 3 5 6 7 36 56 35 54 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70 51 17 12 10 65 71 75 73 63 33 41 39 34 40 15 37 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30 4 3 5 6 7 36 56 35 54 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\moji_projekti\projekt_10\Projekt10.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 60 51 17 12 10 65 71 75 73 63 33 41 39 34 40 62 74 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30 4 5 6 7 66 8 35 54 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60 51 17 12 10 65 71 75 73 63 33 41 39 34 40 62 74 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30 4 5 6 7 66 8 35 54 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Dusan_book_demos\demo14\DAC - DDS demo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85 51 17 12 10 65 71 75 73 63 33 41 39 34 40 89 4 28 5 53 6 64 7 44 19 20 35 54 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\generator_test_buttonIRQ.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70 51 17 12 10 65 71 75 73 63 33 41 39 34 40 15 37 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30 4 3 5 6 7 93 87 36 56 35 54 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70 51 17 12 10 65 71 75 73 63 33 41 39 34 40 15 37 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30 4 3 5 6 7 93 87 36 56 35 54 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\generator_opcija.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70 51 17 12 10 65 71 75 73 63 33 41 39 34 40 15 37 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30 4 3 5 6 7 36 56 35 54 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70 51 17 12 10 65 71 75 73 63 33 41 39 34 40 15 37 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30 4 3 5 6 7 36 56 35 54 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\generator_test.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 94</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70 51 17 12 10 65 71 75 73 63 33 41 39 34 40 15 37 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30 4 3 5 6 7 93 87 36 56 35 54 55</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70 51 17 12 10 65 71 75 73 63 33 41 39 34 40 15 37 25 26 52 58 53 81 95 86 84 91 92 21 64 59 76 24 28 31 61 27 67 42 44 45 46 30 4 3 5 6 7 93 87 36 56 35 54 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Dusan_book_demos\demo1\Digital IO Port_E.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 99</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 68 51 17 12 10 65 71 75 73 63 33 41 39 34 40 69 4 28 6 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68 51 17 12 10 65 71 75 73 63 33 41 39 34 40 69 4 28 6 64</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
